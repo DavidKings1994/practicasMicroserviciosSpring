@@ -1,2 +1,4 @@
 */target
 apache-activemq-5.15.10
+/.metadata/
+node_modules
